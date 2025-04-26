@@ -1,7 +1,7 @@
-```markdown
+
 # Классификация бабочек (Kaggle Competition)
 
-Проект для соревнования Kaggle ["Butterflies Classification"](https://www.kaggle.com/competitions/butterflies-classification/overview) с классификацией 50 видов бабочек.
+Проект для соревнования Kaggle https://www.kaggle.com/competitions/butterflies-classification/overview) с классификацией 50 видов бабочек.
 
 
 1. **Установка зависимостей**:
@@ -10,10 +10,10 @@ pip install torch torchvision pandas tqdm
 ```
 
 2. Скачайте данные с Kaggle и разместите в папках:
-```
+
 /train_butterflies/train_split/class_0...49/
 /test_butterflies/valid/
-```
+
 
 3. **Запуск обучения**:
 ```bash
